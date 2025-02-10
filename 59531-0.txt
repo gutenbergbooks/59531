@@ -1,31 +1,7 @@
-Project Gutenberg's The World's Best Histories--Norway, by Sigvart Sörensen
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: The World's Best Histories--Norway
-
-Author: Sigvart Sörensen
-
-Release Date: May 18, 2019 [EBook #59531]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE WORLD'S BEST HISTORIES--NORWAY ***
+*** START OF THE PROJECT GUTENBERG EBOOK 59531 ***
 
 
 
-
-Produced by D A Alexander and the Online Distributed
-Proofreading Team at http://www.pgdp.net. Thanks to the
-Natrona County Library System, Casper, Wyoming, USA, for
-donating the source book.
 
 
 
@@ -41,7 +17,7 @@ donating the source book.
 
  BY
 
- SIGVART SÖRENSEN
+ SIGVART SÃ–RENSEN
 
  EDITOR "MINNEAPOLIS TIDENDE"
 
@@ -78,7 +54,7 @@ great work of Snorre Sturlason: "The Heimskringla, or The Sagas of the
 Norse Kings," and I have used the English translation of the same by
 Samuel Laing, Esq., revised edition by Rasmus B. Anderson (Scribner &
 Welford, New York, 1889). I have also found much assistance in O. A.
-Överland's "Norges Historie." Among many other works used as sources or
+Ã–verland's "Norges Historie." Among many other works used as sources or
 consulted, are: J. E. Sars's "Udsigt over den Norske Historie"; Jacob
 Aall's "Erindringer"; F. Winkel Horn's "History of the Literature of
 the Scandinavian North," translated by R. B. Anderson (S. C. Griggs
@@ -376,7 +352,7 @@ CONTENTS
  Florevaag--Sverre's Struggle with the Hierarchy--Bishop Nicholas
  Arneson--Sverre Excommunicated--Sverre Crowned in Bergen--Organization
  of the Bagler Party--Burning of Bergen--Papal Interdict against
- Norway--The Baglers Defeated at Strindsö--Uprising in Viken--The
+ Norway--The Baglers Defeated at StrindsÃ¶--Uprising in Viken--The
  Siege at Tunsberg--Sverre's Sickness and Death                      178
 
 
@@ -448,7 +424,7 @@ CONTENTS
 
  Magnus Smek Becomes King of Norway and Sweden--Erling Vidkunson
  Appointed Regent--Haakon Magnusson Acknowledged as King of
- Norway--Battle at Enköping--Death of Magnus--Flood in the Gaula
+ Norway--Battle at EnkÃ¶ping--Death of Magnus--Flood in the Gaula
  Valley--The Black Death                                             219
 
 
@@ -547,7 +523,7 @@ CONTENTS
 
  The Popular King--Frequent Visits to Norway--The Laws Improved--War
  with Sweden--The Scotch War--Colonel Sinclair Killed--Peace at
- Knaeröd--The Peace of Lubeck--Second War with Sweden--Peace at
+ KnaerÃ¶d--The Peace of Lubeck--Second War with Sweden--Peace at
  Bromsebro--The Hannibal's Feud--The City of Christiania             255
 
 
@@ -567,7 +543,7 @@ CONTENTS
 
  Extravagance at Court--German Manners Introduced--A new
  Nobility--Peter (Schumacher) Griffenfeld--The Scania War--The
- Gyldenlöve Feud--A new Code of Laws                                 267
+ GyldenlÃ¶ve Feud--A new Code of Laws                                 267
 
 
  CHAPTER XLIX
@@ -575,9 +551,9 @@ CONTENTS
  FREDERICK IV. (1699-1730)
 
  War with the Duke of Holstein--The Great Northern War
- (1709-1720)--Naval Battle in Kjögebugt--Charles XII. Invades
- Norway--The Heroic Anna Kolbjörnsdatter--King Charles at
- Frederickshald--Peter and Hans Kolbjörnson--Peter Wessel
+ (1709-1720)--Naval Battle in KjÃ¶gebugt--Charles XII. Invades
+ Norway--The Heroic Anna KolbjÃ¶rnsdatter--King Charles at
+ Frederickshald--Peter and Hans KolbjÃ¶rnson--Peter Wessel
  Tordenskiold--The Battle of Dynekilen--King Charles XII. Killed
  before Frederickssteen--The Peace of Fredericksborg--The Sale of
  Norwegian Church Property--Hans Egede, Greenland's Apostle          272
@@ -619,7 +595,7 @@ CONTENTS
  War with Sweden--Battles at Lier, Toverud, Trangen, and
  Prestebakke--Armistice, December, 1808--Gustavus IV.
  Deposed--Christian August becomes Crown Prince of Sweden--Peace
- of Jönköping--The Society for Norway's Welfare--The University
+ of JÃ¶nkÃ¶ping--The Society for Norway's Welfare--The University
  of Norway--Famine and Distress in Norway                            293
 
 
@@ -627,7 +603,7 @@ CONTENTS
 
  MARSHAL BERNADOTTE
 
- Candidates for the Swedish Succession--Baron Mörner goes to
+ Candidates for the Swedish Succession--Baron MÃ¶rner goes to
  Paris--Marshal Bernadotte--Crown Prince Charles John--Rupture with
  Napoleon--Agreement with Russia--Norway Promised to Sweden--Treaty
  of Kiel--Norway ceded to the Swedish King                           298
@@ -659,7 +635,7 @@ CONTENTS
 
  The Rigsakt of 1815--Charles XIV. John ascends the Throne--Nobility
  Abolished--The Storthing rejects the King's Propositions--Independence
- Day--The Storthing Dissolved in 1836--Minister Lövenskiold
+ Day--The Storthing Dissolved in 1836--Minister LÃ¶venskiold
  Impeached--Oscar I. becomes King--Norway gets her own Flag--The
  German-Danish War--Charles XV.--Norway Prosperous--A Union
  Committee--Oscar II. ascends the Throne--The Office of Statholder
@@ -695,7 +671,7 @@ _The Northmen_
 
 
 Norway (in the old Norse language _Noregr_, or _Nord-vegr_, i.e._,
-the North Way), according to archæological explorations, appears to
+the North Way), according to archÃ¦ological explorations, appears to
 have been inhabited long before the historical time. The antiquaries
 maintain that three populations have inhabited the North: a Mongolian
 race and a Celtic race, types of which are to be found in the Finns and
@@ -794,7 +770,7 @@ on whose milk he lives. From Ymer descends the evil race of Yotuns
 or frost-giants. As the cow licked the briny hoar-frost, the large,
 handsome and powerful Bure came into being. His son was Bur, who
 married a daughter of a Yotun and became the father of _Odin_, Vile,
-and Ve. Odin became the father of the kind and fair _Æsir_, the gods
+and Ve. Odin became the father of the kind and fair _Ã†sir_, the gods
 who rule heaven and earth.
 
 Bur's sons killed Ymer, and in his blood the whole race of Yotuns
@@ -812,7 +788,7 @@ Midgard as a defence for the inner earth. But from heaven to earth they
 suspended the quivering bridge called Bifrost, or the rainbow.
 
 The Yotun woman Night, black and dark as her race, met Delling (the
-Dawn) of the Æsir race, and with him became the mother of Day, who
+Dawn) of the Ã†sir race, and with him became the mother of Day, who
 was bright and fair as his father. Odin placed mother and son in the
 heavens and bid them each in turn ride over the earth. Night rides
 ahead with her horse Hrimfaxe, from whose foaming bit the earth is
@@ -846,7 +822,7 @@ future). They pour water from the well over the roots of the tree. The
 Norns distribute life and govern fate, and nothing can change their
 decision.
 
-The dwelling in heaven of the _Æsir_ or gods is called Asgard. In its
+The dwelling in heaven of the _Ã†sir_ or gods is called Asgard. In its
 middle was the field of Ida, the gathering place of the gods, with
 Odin's throne, Lidskialv, from which he views the whole world. Odin
 is the highest and the oldest of the gods, and all the others honor
@@ -857,7 +833,7 @@ fallen in battle, and he is therefore called Valfather, _i.e._, the
 father of the fallen. The invited fallen heroes are called _Einherier_;
 their sport and pastime is to go out every day and fight and kill each
 other; but toward evening they awake to life again and ride home as
-friends to Valhalla, where they feast on pork of the barrow Særimner,
+friends to Valhalla, where they feast on pork of the barrow SÃ¦rimner,
 and where Odin's maidens, the Valkyrias, fill their horns with mead.
 These Valkyrias were sent by Odin to all battles on earth, where they
 selected those who were to be slain and afterward become the honored
@@ -929,7 +905,7 @@ by two cats. The name of her dwelling is Folkvang. There were also a
 number of other goddesses, who were in the service of either Frigg or
 Freya.
 
-Æger, the ruler of the turbulent and stormy sea, is a Yotun, but he
+Ã†ger, the ruler of the turbulent and stormy sea, is a Yotun, but he
 is a friend of the gods. When they visit him his hall is lighted with
 shining gold. His wife is Ran, and their daughters are the waves.
 
@@ -1199,7 +1175,7 @@ the common name of all the districts about the Throndhjem (Drontheim)
 Fjord. Here he procured ships, sailed southward along the coast and
 conquered one district after another in the western part of the
 country. Finally, the remaining kings gathered their men and ships and
-met Harald in naval battle in Hafrsfjord, a little inlet in Jæderen,
+met Harald in naval battle in Hafrsfjord, a little inlet in JÃ¦deren,
 near the present city of Stavanger. The battle was fierce and long,
 but Harald finally gained the day. After this battle, which occurred
 in 872, King Harald met no opposition, and was acknowledged as king of
@@ -1281,7 +1257,7 @@ the trading-place Tunsberg, and who was called Biorn Farmand, or Biorn
 the Merchant, because he cared little for war, but more for trading
 expeditions. As he refused to pay tribute to Erik, the latter attacked
 and killed him, and plundered his house. King Biorn lies buried in the
-Seaman's Mound (Farmandshaugen) at Sæheim (in the present Sem's parish)
+Seaman's Mound (Farmandshaugen) at SÃ¦heim (in the present Sem's parish)
 in Jarlsberg. Halfdan the Black, who ruled in Throndhjem, resolved to
 avenge his brother Biorn's death, and collected a great force of men
 and ships. Erik sought the aid of his father Harald, who also equipped
@@ -1323,7 +1299,7 @@ servant-girl, for at that time, as the Saga says, "many were subject
 to service to the king who were of good birth, both men and women."
 Sigurd Ladejarl, or Earl of Lade (near Throndhjem), was a friend of
 Thora's family, and when she was about to be confined he brought her in
-his ship from Moster northward to Sæheim, where King Harald was then
+his ship from Moster northward to SÃ¦heim, where King Harald was then
 living. They spent the night at the shore south of the Alv-island, and
 here Thora bore her child, on a stone near the ship's gangway. It was
 a male child, and Earl Sigurd baptized him in heathen fashion, and
@@ -1352,7 +1328,7 @@ plan, however, was frustrated by Haakon, the youngest son of Harald.
 
 When Haakon, Athelstan's foster-son, heard of his father's death, he
 immediately prepared to leave England, and was given men and ships
-by King Athelstan. He sailed north to Tröndelagen, where he found
+by King Athelstan. He sailed north to TrÃ¶ndelagen, where he found
 the mighty Sigurd, Earl of Lade, who had been his mother's friend and
 his guardian in early childhood. Sigurd received him well, and Haakon
 promised him great power if he became king. They assembled a great
@@ -1365,7 +1341,7 @@ to give them back the udal-right (allodium), which Harald had taken
 from them. His speech was so well received that the people cheered
 wildly, and with great enthusiasm they proclaimed him their king. He
 immediately started southward, and the other districts followed the
-example of Tröndelagen and swore allegiance to Haakon.
+example of TrÃ¶ndelagen and swore allegiance to Haakon.
 
 Erik made a desperate attempt to raise an army, but not succeeding,
 he had to leave the country with his wife Gunhild, his children,
@@ -1375,7 +1351,7 @@ of Northumberland from King Athelstan on the condition that he was to
 defend the country against Norwegian and Danish vikings. Erik remained
 in England under shifting conditions, until he was killed in a battle
 in 954. After his death Queen Gunhild had a poem written in his honor,
-the so-called Eriksmál, of which a beautiful fragment still exists.
+the so-called EriksmÃ¡l, of which a beautiful fragment still exists.
 Shortly after Erik's death Queen Gunhild went to Denmark with her sons,
 and was well received by the Danish king, Harald Bluetooth (Blaatand),
 the son of Gorm the Old. The children of Erik Blood-Axe and Gunhild
@@ -1583,7 +1559,7 @@ his residence in Throndhjem.
 King Harald Bluetooth was greatly incensed at Earl Haakon's action, and
 decided to take an awful revenge. He collected a great fleet, which he
 brought to Norway. He burned and destroyed the settlements and killed a
-great number of people wherever he came. In Lærdal in Sogn, it is said
+great number of people wherever he came. In LÃ¦rdal in Sogn, it is said
 that only five dwellings were left unburned. The inhabitants fled to
 the woods with such movable goods as they could save. As soon, however,
 as it was reported that Earl Haakon was coming southward with a fleet,
@@ -1630,7 +1606,7 @@ with an army to South More, and Erik was to follow with what army he
 could collect from the north.
 
 Meanwhile, the Joms-vikings sailed slowly northward, plundering the
-coasts. Christmas night they were at Jæderen. At Hjorungavaag (on the
+coasts. Christmas night they were at JÃ¦deren. At Hjorungavaag (on the
 island Hareidland in South More) they met Earl Haakon and his sons
 Erik, Svein, Sigurd and Erling. The earl had 180 ships and boats, fully
 manned and equipped, and the Joms-vikings had 60 ships. A bloody and
@@ -1874,7 +1850,7 @@ people heard of this they sent out war-tokens and collected a great
 force, with which they intended to attack the king. In the meantime
 Olaf sailed with his men out of the fjord along the coast northward,
 intending to proceed to Halogaland and baptize there. But when he came
-out to Bjarnaurar (Björnör), he heard from Halogaland that a force was
+out to Bjarnaurar (BjÃ¶rnÃ¶r), he heard from Halogaland that a force was
 assembled there to defend the country against the king. The chiefs of
 this force were Harek of Thiotta, Thorer Hiort from Vagar, and Eyvind
 Kinrifa. At the same time he learned that the peasants in Throndhjem
@@ -1922,7 +1898,7 @@ spared their lives on the condition that they should be baptized, take
 an oath to support the true faith, and renounce all sacrifices to the
 heathen gods. They were then baptized, and had to send their sons,
 brothers or other near relations as hostages. Later on, King Olaf came
-with his men to Mærin, where the people were assembled. He promised to
+with his men to MÃ¦rin, where the people were assembled. He promised to
 go into their temple to look at their ceremonies; but while there, he
 and his men knocked down and demolished the images of the gods, while
 the chief of the peasants, Jernskegge, was killed outside of the temple
@@ -2042,7 +2018,7 @@ might attack King Olaf Trygvason. He also sent Earl Sigvald to Vendland
 to spy out Olaf Trygvason's movements, and by pretending friendship
 gain his confidence and lead him into a trap.
 
-Between the island of Rügen and the mainland of the present Prussian
+Between the island of RÃ¼gen and the mainland of the present Prussian
 province of Pomerania lies a little island called Greifswalder Oie,
 or Svolder, as it was called at that time. Here lay on the 9th of
 September, in the year 1000, a fleet of eighty ships. Sixty of them
@@ -2132,7 +2108,7 @@ CHAPTER XII
 _The Discovery of America_
 
 
-During the reign of Earl Haakon a man from Jæderen, called Erik the
+During the reign of Earl Haakon a man from JÃ¦deren, called Erik the
 Red, being obliged to leave Norway because he had killed a man,
 proceeded to the western part of Iceland. Here he committed a similar
 offence and was condemned at Thorsnes Thing to banishment. He had
@@ -2203,7 +2179,7 @@ Keelness."[3] Then they sailed eastward along the country and landed on
 a headland, which Thorvald liked so well that he said he would like to
 make his home there. On going on board they saw three little hills on
 the sandy shore. They went up to them and found they were three canoes,
-made of skin, with three natives--or _Skrælings_, as the Northmen
+made of skin, with three natives--or _SkrÃ¦lings_, as the Northmen
 called them--under each canoe. They killed eight of them, while one
 made his escape in his canoe. Afterward a great number of the natives
 attacked Thorvald's party. They were repulsed, but Thorvald was wounded
@@ -2221,9 +2197,9 @@ to undertake an expedition to Vinland and establish a colony there.
 In the spring (1007) they set out with three ships, 160 men, and all
 kinds of live stock, and sailed to Vinland. Some time after their
 arrival there Gudrid bore a son, who was named Snorre. The colonists
-occasionally traded with the _Skrælings_, giving them pieces of cloth
+occasionally traded with the _SkrÃ¦lings_, giving them pieces of cloth
 and dairy products for their skins; but when they refused to sell them
-weapons, the _Skrælings_ became hostile to the settlers and attacked
+weapons, the _SkrÃ¦lings_ became hostile to the settlers and attacked
 them repeatedly. These constant hostilities so disheartened the
 settlers that they resolved to leave the country, and, after three
 years' sojourn in Vinland, Thorfin Karlsefne and his party returned
@@ -2410,7 +2386,7 @@ _Olaf the Saint (1015-1028)_
 Leaving his long-ships (battleships) behind him at Northumberland, Olaf
 sailed, in the fall of 1015, with two merchant-ships and 120 well-armed
 men, across the North Sea to Norway. After a stormy voyage he landed on
-the west coast of Norway, near a small island called Sæla. King Olaf
+the west coast of Norway, near a small island called SÃ¦la. King Olaf
 thought this was a good omen, because that word means luck. He sailed
 southward to Ulfasund, where he heard that Earl Haakon was south in
 Sogn, and was expected north with a single ship as soon as the wind was
@@ -2607,7 +2583,7 @@ men; Olaf hardly had half the number of ships, but his ships were
 considerably larger, so that the number of men was probably about the
 same. Toward the end of Easter he entered Viken with his fleet and put
 in at Nesiar (Nesje), a headland on the east side of the bay (near
-Fredriksværn).
+FredriksvÃ¦rn).
 
 On Palm Sunday, March 25, 1016, the two fleets met in battle. Before
 opening the battle Olaf had his ships tied together, his own ship,
@@ -2816,7 +2792,7 @@ to the heathen gods for peace and a good season, and that Olver
 of Eggja, a mighty man in that neighborhood, presided over these
 sacrifice-feasts, although he had twice assured the king that the
 people were loyal Christians. Learning that they were preparing such
-a feast at Mæren, the king proceeded to that place one night with
+a feast at MÃ¦ren, the king proceeded to that place one night with
 three hundred and sixty armed men, captured Olver of Eggja, and had
 him killed together with many others, and severely punished all the
 peasants who had taken a leading part in the sacrifices. In this way he
@@ -2975,7 +2951,7 @@ left the country with a great force and several ships, and had sailed
 westward to England to Canute the Great. King Olaf proceeded eastward
 and then south to Denmark, where he first ravaged the coast of Seeland,
 and afterward met King Anund Jacob of Sweden, and with him harried
-the coast of Skåne (Scania, then a part of Denmark, now belonging to
+the coast of SkÃ¥ne (Scania, then a part of Denmark, now belonging to
 Sweden). They proclaimed to the people that they intended to conquer
 Denmark, and asked the support of the people for this purpose. Many men
 entered the service of the kings, and agreed to submit to them.
@@ -3238,7 +3214,7 @@ _King Svein Alfifuson (1030-1035)_
 
 When King Canute the Great heard that Earl Haakon had been lost in a
 shipwreck on his way to Norway, he concluded to put his natural son
-Svein on the throne of Norway. Svein's mother was Ælfgifa, a daughter
+Svein on the throne of Norway. Svein's mother was Ã†lfgifa, a daughter
 of an English chieftain in Northampton, but the Norwegians called
 her Alfifa and her son Svein Alfifuson. Svein had, a couple of years
 before, been appointed by King Canute to govern Jomsborg in Vendland;
@@ -3439,7 +3415,7 @@ which one of them should inform the king of the discontent of the
 people, and the lot fell upon Sigvat the Skald.
 
 Sigvat then composed a poem, which he called "The Free-speaking Song"
-(_Bersöglisvísur_), in which he reminded the king of the promises
+(_BersÃ¶glisvÃ­sur_), in which he reminded the king of the promises
 he made when he was proclaimed king, and advised him to be guided
 by that respect for the laws and the rights of the people which his
 predecessors had shown. He blamed him for his severity, and warned him
@@ -3887,7 +3863,7 @@ He preserved law and order with firmness, and did a great deal to
 promote commerce and the prosperity of the towns. Before his time there
 were three towns in Viken (Tunsberg, Oslo, and Sarpsborg), and one in
 Throndhjem (Nidaros). King Olaf founded the merchant town of Bergen
-(then Björgvin), where many wealthy people settled down, and the place
+(then BjÃ¶rgvin), where many wealthy people settled down, and the place
 was soon regularly frequented by merchants from foreign countries. The
 other towns also made good progress.
 
@@ -4710,7 +4686,7 @@ King Inge then led his army out on the ice, and drew it up in order of
 battle. The king and his brother Orm took their places under the banner
 in the centre. On the right wing, toward the nunnery, was Gudrod, the
 exiled king of the South Hebrides, and Jon Sveinson, a grandson of
-Bergthor Buk. On the left wing, toward Thrælaberg, stood the chiefs
+Bergthor Buk. On the left wing, toward ThrÃ¦laberg, stood the chiefs
 Simon Skalp and Gudbrand Skafhoggson, who was married to King Eystein
 Magnusson's daughter Maria. When Haakon and his army came near to King
 Inge's array, both sides raised a war shout. But then it appeared that
@@ -4824,7 +4800,7 @@ government; but his liegemen governed in his name.
 Many of the adherents of the late King Inge refused to acknowledge King
 Haakon. Among them was the powerful and wily chieftain Erling Skakke.
 He was of a distinguished family, which resided on the Studla estate
-in Söndhordland. In his youth he had made a crusade to the Holy Land.
+in SÃ¶ndhordland. In his youth he had made a crusade to the Holy Land.
 On his way back through the Mediterranean he had a fight with pirates
 and was wounded in the neck, which compelled him afterward to carry his
 head on one side; hence his surname (_skakke_, wry). By the assistance
@@ -4943,14 +4919,14 @@ son of King Eystein Magnusson's daughter Maria, in her marriage with
 the chief Gudbrand Skafhoggson, who fell with King Inge in the battle at
 Oslo. Olaf was brought up by an influential man named Sigurd Agn-Hat.
 Probably from the latter's surname the adherents of Olaf were called
-Hat-Swains (Hættesveiner). The Hat-Swains proclaimed Olaf king, and
+Hat-Swains (HÃ¦ttesveiner). The Hat-Swains proclaimed Olaf king, and
 went through the Uplands, and sometimes down to Viken, or east to the
 forest settlements. At Rydjokel, near Lake Oiern, they surprised
 Erling Skakke and his men early one morning, and in the fight that
 followed killed several of Erling's men and drove the remainder down
 to their ships. Because Olaf did not succeed in capturing Erling,
 although the odds were all in his favor, he was afterward called Olaf
-the Unlucky (Ugæva). The following spring the Hat-Swains met Erling
+the Unlucky (UgÃ¦va). The following spring the Hat-Swains met Erling
 in battle at Stanger, in the eastern part of Viken, where Erling won
 a decisive victory. Sigurd Agn-Hat and many others of Olaf's men fell
 here. Olaf escaped by flight, went south to Denmark, and spent the
@@ -5510,7 +5486,7 @@ help him. They showed their usual loyalty, and with their help he set
 to work to build a new, strong fleet and to improve the fortifications
 of the town. In the spring the Baglers appeared in the Throndhjem Fjord
 with a strong fleet, and, after some skirmishing, the two fleets met
-in battle at Strindsö, June 18, 1199. It was a desperate fight, where
+in battle at StrindsÃ¶, June 18, 1199. It was a desperate fight, where
 no quarter was given. The result was a victory for King Sverre and
 the Birchlegs, who returned to town with most of the enemy's ships.
 The prisoners taken on this occasion were nearly all slain. Bishop
@@ -5518,7 +5494,7 @@ Nicholas, who watched the beginning of the battle from a safe distance,
 fled with his ship when he saw that the Baglers were losing, and Sigurd
 Jarlson and Reidar the Messenger followed his example.
 
-The Baglers who escaped from the battle of Strindsö proceeded to
+The Baglers who escaped from the battle of StrindsÃ¶ proceeded to
 Denmark. Sverre, with his fleet, pursued them a part of the way,
 but gave up the chase and proceeded to Oslo, where he intended to
 go into winter-quarters. In January, 1200, the Baglers came up from
@@ -5740,7 +5716,7 @@ the other shore, but was then so exhausted from cold and exertion that
 he would probably have succumbed, if one of his faithful men, Reidulf
 Baardsbrother, had not happened to come to his assistance. Reidulf took
 off his cloak and wrapped the king in it, and carried him on his back
-to Skyaas, where they obtained a horse and sled and escaped to Klæbu.
+to Skyaas, where they obtained a horse and sled and escaped to KlÃ¦bu.
 
 In the meanwhile the Baglers continued their dreadful work in Nidaros.
 They searched all the churches and killed those who had taken refuge
@@ -5749,7 +5725,7 @@ Inge's half-brother, the seventeen year old Skule Baardson, escaped as
 by a miracle. He crept along the house walls and reached the river,
 where the chief, Jon Usle, and forty Birchlegs were just going across
 in some boats they had secured. They crossed in safety, and later
-proceeded to Klæbu, where Skule found the king with a hundred Birchlegs
+proceeded to KlÃ¦bu, where Skule found the king with a hundred Birchlegs
 and peasants, who had gathered about him.
 
 King Inge was greatly changed after the experiences of that awful
@@ -5780,7 +5756,7 @@ that the resources of the country were thus being wasted, and that,
 whichever party finally won, there would only be an impoverished land
 and people to rule over. Bishop Nicholas saw this as well as any one,
 and consulted the archbishop in Nidaros. The result was a meeting
-of the chiefs of both parties at Hvitings Island (Hvitingsö), near
+of the chiefs of both parties at Hvitings Island (HvitingsÃ¶), near
 Stavanger, where the king of the Baglers, Philip, swore allegiance to
 King Inge, and was, in return, made earl of Viken and the Uplands, and
 was given Christina, the daughter of Sverre, in marriage.
@@ -5972,7 +5948,7 @@ before.
 
 By the agreement at the state meeting in Bergen, Norway was divided
 into two domains, of which that of the king included Viken, the
-Uplands, and the Gulathingslag, except Söndmöre, while that of
+Uplands, and the Gulathingslag, except SÃ¶ndmÃ¶re, while that of
 the earl included everything north of the king's domain, and this
 division remained in force for over fifteen years. The earl made his
 headquarters in Nidaros, while the king took up his residence in Oslo.
@@ -6236,7 +6212,7 @@ When King Magnus had succeeded in ending the conflict with Scotland,
 he turned his whole attention to the improvement of the domestic
 affairs of the country. He undertook a thorough revision of the laws,
 and, on account of his efforts in this direction, was given the
-surname _lagaböter_, _i.e._, law-mender. He had a common code of laws
+surname _lagabÃ¶ter_, _i.e._, law-mender. He had a common code of laws
 compiled for the whole country, while formerly there had been four
 different laws administered respectively at the four Things; viz., the
 Frosta-Thing for the Throndhjem country, the Gula-Thing for the western
@@ -6413,7 +6389,7 @@ this occasion conferred knighthood on twenty-five men. But the joy
 was of short duration. Duke Erik and his brother, Duke Valdemar, had
 been quarrelling with their brother, King Birger of Sweden. The latter
 pretended to desire a reconciliation and invited them to a feast at the
-castle of Nyköping. During the night the sleeping-room of the dukes was
+castle of NykÃ¶ping. During the night the sleeping-room of the dukes was
 entered, and they were thrown into prison, where soon afterward they
 died. Rumor said that they were starved to death. The tidings of this
 tragedy so affected King Haakon that it hastened his death. He died at
@@ -6487,7 +6463,7 @@ and Albrecht elected king of Sweden (1363). Haakon, who shortly before
 that had been elected king of Sweden, did not intend to give up the
 kingdom without a fight, especially as he had several fortresses and
 provinces in his possession. Both sides armed themselves, and a battle
-was fought at Enköping, March 3, 1365. Magnus was taken prisoner and
+was fought at EnkÃ¶ping, March 3, 1365. Magnus was taken prisoner and
 brought to Stockholm, and Haakon, severely wounded, had to flee to
 Norway. The war was continued with varying success until the Hanseatic
 League interfered in the struggle, because Haakon had attempted to
@@ -6603,7 +6579,7 @@ messages, called her "Queen Breechless," and sent her a whetstone on
 which to sharpen her scissors and needles, saying that the good woman
 ought to remain quietly at her spinning wheel. The queen's chiefs, Ivar
 Lykke and Henrik Parow, invaded Sweden with an army, and won a battle
-at Falköping in West Gautland. Albrecht was taken prisoner and was
+at FalkÃ¶ping in West Gautland. Albrecht was taken prisoner and was
 brought before the queen, who reminded him of his insults. She gave him
 a long fool's-cap to wear instead of the crown of Denmark, and sent him
 to prison in the castle of Lindholm in Scania, where he remained six
@@ -6841,7 +6817,7 @@ councils promised that, after the death of Christian, his son Hans was
 to be king of all three countries. But King Christian made himself
 hated by his oppression, and when he caused the imprisonment of the
 powerful archbishop, Jens Bengtson Oxenstierna, the latter's nephew,
-Ketil Carlsson Wasa, bishop of Linköping, swore that he would not put
+Ketil Carlsson Wasa, bishop of LinkÃ¶ping, swore that he would not put
 on his bishop's robes until his country had been rid of its oppressor,
 and he kept his word. Carl was recalled, and died, as king of Sweden,
 in 1470, after several unsuccessful attempts by Christian to regain the
@@ -7450,12 +7426,12 @@ with foreign mercenaries, as it was not yet usual to have standing
 armies. Gustavus Adolphus had secured two such hired armies, which
 were to try to proceed across Norway in order to reach Sweden, as
 the Kattegat was closed with Danish ships. Colonel Munchaven landed
-with eight hundred men from Holland in Söndmöre, where he plundered
+with eight hundred men from Holland in SÃ¶ndmÃ¶re, where he plundered
 the country, then tried in vain to attack Throndhjem, and afterward
-proceeded through Stjördalen, where the people had become so
+proceeded through StjÃ¶rdalen, where the people had become so
 frightened, on account of his depredations, that they did not dare to
 offer any resistance. Ravaging and plundering he made his way across
-the mountain ridge Kjölen into the province of Jemteland, which he
+the mountain ridge KjÃ¶len into the province of Jemteland, which he
 conquered before joining the army in Sweden. The second foreign army
 was given a different reception. It consisted of nine hundred men, who
 came from Scotland under the command of Colonel George Sinclair. They
@@ -7474,7 +7450,7 @@ Sinclair, and at Kringen there is a plain stone monument bearing this
 inscription: "Here Colonel George Sinclair was shot, August 26, 1612."
 After the Scotchmen the Norwegians call this war the "Scotch War."
 
-Peace was finally concluded at Knaeröd, January 26, 1613. Gustavus
+Peace was finally concluded at KnaerÃ¶d, January 26, 1613. Gustavus
 Adolphus abandoned his claim to the Norwegian Finmark, and Christian
 relinquished the captured fortresses upon being paid a million
 Rigsdalers. Both countries were again allowed to use the three crowns
@@ -7532,7 +7508,7 @@ of Norway. The Hanseatic office in Bergen was held in check, and
 Norwegian trading enterprises were encouraged. The mining industry,
 which had heretofore been neglected, became quite active. When silver
 had been discovered in Sandsvaer, in 1623, he founded the mining-town
-of Kongsberg. He also established the copper-works at Röros, where
+of Kongsberg. He also established the copper-works at RÃ¶ros, where
 copper was accidentally discovered by the peasant, Hans Aasen, in
 1640. Oslo having been destroyed by fire, King Christian requested
 the inhabitants to move across the bay, closer to the fortress of
@@ -7583,7 +7559,7 @@ Denmark, and, before the year was closed, he had conquered Holstein,
 Schleswig and Jutland. The winter being unusually severe, he could
 march across the ice to the islands of Langeland, Lolland, and
 Falster, and, in February, he stood with his whole army in Zealand
-(Sjælland) and threatened Copenhagen. King Frederick was obliged to
+(SjÃ¦lland) and threatened Copenhagen. King Frederick was obliged to
 sign the peace at Roskilde (February 26, 1658), by which he ceded to
 Sweden the Norwegian provinces of Bahus-Len and Throndhjem Stift and
 the Danish provinces of Scania, Halland, Blekinge, and the island of
@@ -7750,13 +7726,13 @@ adopted the strict etiquette and ceremonies of the French court. He
 also established two orders of knighthood, the order of Dannebrog
 and the order of the Elephant. In Norway, the earldom (county) of
 Laurvik was established (1671) for the benefit of the king's friend
-and half-brother, Ulrik Frederick Gyldenlöve, whose descendants, the
+and half-brother, Ulrik Frederick GyldenlÃ¶ve, whose descendants, the
 Counts of Danneskiold-Laurvik, and later Ahlefeldt-Laurvik, for a long
 time owned this beautiful county. The old royal estate Sem, together
 with the deanery of Tunsberg, was made into another earldom (1673)
 for the then very powerful Minister of State Griffenfeld, who called
 himself Count of Griffenfeld and Tunsberg; after he had fallen from
-grace, this county was transferred to his rival, Gyldenlöve, who,
+grace, this county was transferred to his rival, GyldenlÃ¶ve, who,
 with the permission of the king, sold a part of it--afterward called
 Jarlsberg--to the German-born field-marshal of Norway, Gustav Wilhelm
 Wedel, the progenitor of the family of Wedel-Jarlsberg. Rosendal, the
@@ -7806,7 +7782,7 @@ of Halmstad, Lund, and Landskrona. At sea, however, the Danes were
 generally successful. Admiral Kort Adeler had put the navy in good
 condition and had a worthy successor in the naval hero, Niels Juel,
 who won victories at Oeland and Kolbergerheide, and especially in the
-great naval battle of Kjögebugt (October 4, 1677). As Griffenfeld
+great naval battle of KjÃ¶gebugt (October 4, 1677). As Griffenfeld
 had foreseen, however, the Danes could accomplish little against the
 allies of France, and Christian was obliged to accede to peace proposed
 by Louis XIV. The peace was concluded at Lund (1679), and all that
@@ -7814,25 +7790,25 @@ Christian V. obtained, for his efforts during an expensive four years'
 war, was permission to take with him ten cannons from each of the
 conquered fortresses.
 
-During this war, which the Norwegians called the Gyldenlöve Feud, after
-their leader, the brave Ulrik Frederick Gyldenlöve, the Norwegians
-several times defeated the Swedes. In February, 1676, Gyldenlöve
+During this war, which the Norwegians called the GyldenlÃ¶ve Feud, after
+their leader, the brave Ulrik Frederick GyldenlÃ¶ve, the Norwegians
+several times defeated the Swedes. In February, 1676, GyldenlÃ¶ve
 marched into Bahus Len with 11,000 men, conquering Udevalla and
 Wenersborg. The following year he took the fortified town of Marstrand
 by storm and compelled the fortress of Carlsten to surrender. In
 order to prevent the Norwegians from making further progress, the
 Swedish chancellor, Magnus de la Gardie, hastened into Bahus Len with
 8,000 men, but was defeated by a much smaller Norwegian army, under
-Major-General Hans Lövenhjelm, at Udevalla, August 28, 1677. About
+Major-General Hans LÃ¶venhjelm, at Udevalla, August 28, 1677. About
 1,500 Swedes were slain and two hundred were captured, together with
 fourteen pieces of artillery and all the supplies. The following year
-the ever-active Gyldenlöve attacked Bahus Castle, which, however,
+the ever-active GyldenlÃ¶ve attacked Bahus Castle, which, however,
 he was unable to capture, as it was defended with great heroism and
 perseverance. The war ended, on the part of Norway, with an incursion
-by Gyldenlöve into Sweden in 1679, in order to avenge a similar
+by GyldenlÃ¶ve into Sweden in 1679, in order to avenge a similar
 expedition which the Swedish General Sparre had made into the region
 of Throndhjem the previous year, on which occasion the copper works at
-Röros had been burned.
+RÃ¶ros had been burned.
 
 The Norwegian code of laws, which is yet partly in force, was
 elaborated by direction of Christian V., dated April 15, 1687, and
@@ -7871,7 +7847,7 @@ and fought with honor in many battles.
 From his father, King Frederick had inherited certain disputes with
 Duke Frederick of Holstein, which led to a war; but the duke received
 aid from his brother-in-law, the Swedish king, Charles XII., who
-invaded Zealand (Sjælland) and marched against Copenhagen, and King
+invaded Zealand (SjÃ¦lland) and marched against Copenhagen, and King
 Frederick was obliged to accept a hasty peace at Traventhal, Holstein,
 August 18, 1700, on unfavorable terms.
 
@@ -7888,7 +7864,7 @@ and defeated the Danes at the battle of Helsingborg (1710). In this
 war also the Danish-Norwegian fleet rendered great service, fighting
 the Swedish fleet with success in the Baltic and especially in the
 North Sea. On October 4, 1710, it was attacked by the Swedish fleet
-in Kjögebugt. The Norwegian, Ivar Hvitfeld (a son of Tonne Hvitfeld,
+in KjÃ¶gebugt. The Norwegian, Ivar Hvitfeld (a son of Tonne Hvitfeld,
 who had distinguished himself at Frederickshald), commanded the ship
 "Dannebrog," which took fire early in the fight. He might have saved
 himself by beaching the ship, but there was danger of thus spreading
@@ -7914,13 +7890,13 @@ almost wholly of the National Guards, which were without training,
 poorly clothed, and without the necessary supplies. The fortresses
 were short of provisions, arms, and ammunition, and there was no money
 in the treasury. The commanding general, the old and feeble Barthold
-von Lützow, had to confine his operations to garrisoning the silver
+von LÃ¼tzow, had to confine his operations to garrisoning the silver
 works at Kongsberg and the principal passes. The natural advantages
 of the country and the patriotism and perseverance of the inhabitants
 constituted the principal defence.
 
 By three different routes the Swedes invaded Norway. Charles himself
-entered Höland in March, 1716. At the Riser farm the Swedish advance
+entered HÃ¶land in March, 1716. At the Riser farm the Swedish advance
 guard was attacked by two hundred Norwegian dragoons under the brave
 Colonel Ulrich Christian Kruse, and, during the fight, the colonel
 himself killed fifteen men and wounded Charles's brother-in-law, the
@@ -7937,13 +7913,13 @@ being among the ablest."
 Charles thereupon occupied Christiania and commenced to besiege the
 fortress of Akershus, but could not accomplish much for lack of heavy
 artillery. While he lay in camp there he sent out expeditions in
-different directions. The Swedish colonel, Axel Löwen, was sent out
+different directions. The Swedish colonel, Axel LÃ¶wen, was sent out
 with six hundred dragoons to destroy Kongsberg silver works. He was to
 proceed by way of Ringerike, because the road from Drammen was blocked
 by the Norwegians; and, on the evening of March 28, 1716, he arrived
 with his force at the Norderhov parsonage, Ringerike. The parson, the
 learned Jonas Ramus, was confined to his bed by sickness, but his wife,
-the intrepid Anna Kolbjörnsdatter, received the soldiers well in order
+the intrepid Anna KolbjÃ¶rnsdatter, received the soldiers well in order
 to avoid plundering. Having learned, by paying close attention to her
 guests, that it was their intention early the next morning to surprise
 a number of Norwegian dragoons, who lay encamped at the Steen farm and
@@ -7954,7 +7930,7 @@ to send warning to the Norwegians about the plans of the enemy. Under
 the leadership of Captain Sehested and Sergeant Thor Hovland the
 Norwegians set out at midnight, and, guided by the fires which Anna had
 started under pretext of warming the chilly soldiers, they surprised
-and overpowered the Swedish force. Colonel Löwen was captured, together
+and overpowered the Swedish force. Colonel LÃ¶wen was captured, together
 with one hundred and sixty men; thirty were killed, and the remainder
 escaped.
 
@@ -7975,13 +7951,13 @@ As the roads were becoming very bad, and Charles feared that the
 Norwegians contemplated cutting off his retreat, he suddenly
 withdrew from Christiania and shortly afterward attacked the city
 of Frederickshald. Here the citizens had armed themselves under the
-brave brothers Peter and Hans Kolbjörnson, nephews of Kield Stub,
-and half-brothers of Anna Kolbjörnsdatter, and the Swedes had to buy
+brave brothers Peter and Hans KolbjÃ¶rnson, nephews of Kield Stub,
+and half-brothers of Anna KolbjÃ¶rnsdatter, and the Swedes had to buy
 every step with blood. Charles captured the city on the night between
 the 3d and 4th of July, 1716, and the Norwegians had to retire to
 the fortress, Frederickssteen. That the enemy might not find shelter
 behind the houses against the shots from the fortress, the citizens
-put fire to the town. Peter Kolbjörnson commenced with his own house,
+put fire to the town. Peter KolbjÃ¶rnson commenced with his own house,
 and soon the whole city was in flames. Charles had to withdraw from
 Frederickssteen, with a loss of 1,500 men and three generals, to his
 headquarters at Torpum, intending to renew the siege as soon as he
@@ -8000,10 +7976,10 @@ to the West Indies and to India. Afterward he became a naval cadet,
 made another trip to India, and on his return came to Bergen just
 as the Great Northern War had broken out. He immediately proceeded
 overland to Christiania, where the commanding general, Waldemar
-Lövendahl, took a fancy to him and gave him the command of a ship of
+LÃ¶vendahl, took a fancy to him and gave him the command of a ship of
 four guns, "Ormen" (the Serpent), with which he made cruises along the
 Swedish coast. He soon became renowned for his courage, and was given a
-better ship called "Lövendahl's galley," a frigate of twenty guns. By
+better ship called "LÃ¶vendahl's galley," a frigate of twenty guns. By
 his heroic deeds and brilliant bravery he rose, in the comparatively
 short time of ten years, from cadet to vice-admiral, and was ennobled
 by King Frederick IV. "For your rare courage and loyalty," the king
@@ -8240,7 +8216,7 @@ A great deal was done during this reign for the promotion of science
 and art, trade, manufactures and agriculture. At Kongsberg a mineral
 school was established and two hundred German experts employed as
 teachers. The bishop at Throndhjem, Johan Gunnerus, Rector Gerhard
-Schöning, and the Danish scholar, Peter Suhm (who had married the
+SchÃ¶ning, and the Danish scholar, Peter Suhm (who had married the
 daughter of a merchant at Throndhjem), established the Royal Academy
 of Sciences in Throndhjem. A free school of mathematics, afterward
 reorganized as the Norwegian Military Academy, was founded in
@@ -8454,7 +8430,7 @@ hour of distress and danger, however, the Norwegians had awakened to a
 consciousness of the fact that they had only themselves to rely upon,
 and, during their struggles, they showed a patriotism which shunned
 no sacrifice. Men like Marcus Rosenkrantz, Peter Anker, Herman Wedel,
-Jacob Aall, Severin Lövenskiold, Thygesen, John Collett, Ludvig Maribo,
+Jacob Aall, Severin LÃ¶venskiold, Thygesen, John Collett, Ludvig Maribo,
 and many other patriots, offered their time, energy, and fortunes to
 the service of the country, and the popular commander, Prince Christian
 August, was strengthened and aided by a strong national spirit among
@@ -8472,7 +8448,7 @@ hearing of the approach of a Norwegian force which had been hurriedly
 despatched against them by Christian August. The Norwegians proceeded
 beyond Blaker, and at Toverud (in Urskog Parish, Romerike) surrounded,
 and, after a sharp fight, captured a Swedish force under Count Axel
-Mörner. On April 24th a Swedish force, under Colonel Gahn, crossed
+MÃ¶rner. On April 24th a Swedish force, under Colonel Gahn, crossed
 the frontier and marched along the left bank of the Flisen River, a
 tributary of the Glommen. Near Trangen, in Aasnes Parish, Soloer,
 they were attacked by the Norwegians, and, after a fight of three
@@ -8510,7 +8486,7 @@ and brought to the castle of Drotningholm, and a few days later to
 Gripsholm Castle, where finally he was induced to write and sign an
 unconditional abdication. He was later transported to Pomerania, and
 from there proceeded to Switzerland. When King Gustavus had abdicated,
-his aged uncle, Charles, duke of Södermanland, was prevailed upon to
+his aged uncle, Charles, duke of SÃ¶dermanland, was prevailed upon to
 take charge of the government as regent. The Swedish Diet, which met
 in May, 1809, confirmed the deposition of King Gustavus and elected
 Charles king under the title of Charles XIII. The newly-elected king
@@ -8519,7 +8495,7 @@ chosen, and the choice fell upon the general-in-chief of the Norwegian
 army, Prince Christian August, whom the Swedes also had learned to
 respect during the war, and whose election, it was supposed by many,
 would eventually result in uniting Norway with Sweden. After peace had
-been concluded between Denmark and Sweden, at Jönköping, December 10,
+been concluded between Denmark and Sweden, at JÃ¶nkÃ¶ping, December 10,
 1809, Prince Christian August accepted the election as Crown Prince of
 Sweden, his name being changed to Charles (or Carl) August. No royal or
 princely person had ever, to such a degree, won the affection of the
@@ -8586,7 +8562,7 @@ Diet; but his opponents strongly argued that to make the Danish king
 successor to the Swedish throne would eventually result in Sweden
 becoming a province of Denmark, and the Duke of Augustenborg, who was
 supported by King Charles XIII., was the choice of a majority in the
-Swedish Diet. A messenger, Baron Mörner, was sent to Paris to ascertain
+Swedish Diet. A messenger, Baron MÃ¶rner, was sent to Paris to ascertain
 whether such an election would have the approval of Napoleon; but upon
 arriving in Paris he was told that, according to the latest reports,
 the election of the Danish king was being seriously considered, and
@@ -8598,7 +8574,7 @@ with Napoleon and a consultation with the Swedish minister in Paris,
 Bernadotte declared himself willing to accept the election, if it were
 offered to him.
 
-When Baron Mörner returned to Sweden and reported the result of his
+When Baron MÃ¶rner returned to Sweden and reported the result of his
 unauthorized step, he caused great surprise, and the king ordered
 his arrest; but, on second thought, the plan to elect Bernadotte was
 generally favorably considered by leading men in Sweden. Count Platen
@@ -8636,7 +8612,7 @@ of arms, to acquire Norway, and Russia was guaranteed the possession of
 Finland, while Charles John was to take an active part in the military
 operations in Germany against Napoleon. This agreement was confirmed
 at a personal meeting between the Russian emperor Alexander and Crown
-Prince Charles John at Åbo, Finland, August 27, 1812. The stipulation
+Prince Charles John at Ã…bo, Finland, August 27, 1812. The stipulation
 that Norway was to be united with Sweden was afterward also agreed to
 by the other Powers at war with France. Charles John took an active
 part in the great campaign against Napoleon in Germany. After the
@@ -8738,7 +8714,7 @@ the Swedes, but rather from what they considered a necessity, believing
 that Norway would not, under the circumstances, be able single-handed
 to maintain her independence. The prominent men of this party were
 Count Wedel-Jarlsberg, Chamberlain Peter Anker, Mine-owner Jacob Aall,
-_Amtmand_ (prefect) Lövenskiold, and the Reverend Nicolai Wergeland.
+_Amtmand_ (prefect) LÃ¶venskiold, and the Reverend Nicolai Wergeland.
 But all members agreed in the demand that Norway must henceforth
 have a liberal constitution. The following were agreed upon as the
 fundamental principles of the constitution:
@@ -8862,7 +8838,7 @@ representatives being eighty, of whom about twenty had been members of
 the diet at Eidsvold. The Storthing was solemnly opened by the oldest
 minister in the name of King Christian Frederick. Two days later a
 committee of the Storthing, at the request of the king, had an audience
-with him at his residence on Bygdö, when he surrendered the Norwegian
+with him at his residence on BygdÃ¶, when he surrendered the Norwegian
 crown into the hands of the people, and for himself and his descendants
 relinquished all rights to the country. On the same day he went on
 board a ship and sailed from Norway.[14] The Storthing now, under the
@@ -8886,7 +8862,7 @@ action of the Storthing; whereupon Charles John and his son, Prince
 Oscar, proceeded to Christiania and delivered to the Storthing the
 king's written oath to the Constitution. As soon as the report of the
 action of the Norwegian Storthing had reached Stockholm, the Swedish
-Minister of Foreign Affairs, Lars von Engeström, despatched a circular
+Minister of Foreign Affairs, Lars von EngestrÃ¶m, despatched a circular
 to each of the Swedish representatives at the foreign courts, informing
 them of the union of Norway and Sweden. In this circular the minister
 said:
@@ -8969,8 +8945,8 @@ farmers commenced to take an active part in the elections. Prominent
 among them was Ole Gabriel Ueland. The king was so displeased with
 the majority in the Storthing of 1836 that he suddenly dissolved it;
 but the Storthing answered this action by impeaching the Minister of
-State, Lövenskiold, for not having dissuaded the king from taking such
-a step. Lövenskiold was sentenced to pay a fine. The king then yielded
+State, LÃ¶venskiold, for not having dissuaded the king from taking such
+a step. LÃ¶venskiold was sentenced to pay a fine. The king then yielded
 and reconvened the Storthing. He also took a step toward conciliating
 the Norwegians by appointing their countryman, Count Wedel-Jarlsberg,
 as viceroy. This action was much appreciated in Norway. During the last
@@ -9136,8 +9112,8 @@ Harald the Fairhaired had subdued the many independent chiefs and
 established the monarchy (872), for the most part belonged to the
 flower of the nation, and Iceland naturally became the home of the old
 Norse literature. Among the oldest poetical works of this literature
-is the so-called "Elder Edda," also called Sæmund's Edda, because for
-a long time it was believed to be the work of the Icelander Sæmund.
+is the so-called "Elder Edda," also called SÃ¦mund's Edda, because for
+a long time it was believed to be the work of the Icelander SÃ¦mund.
 "The Younger Edda," also called Snorre's Edda, because it is supposed
 to have been written by Snorre Sturlason (born 1178, died 1241),
 contains a synopsis of the old Norse religion and a treatise on the art
@@ -9160,7 +9136,7 @@ educational centre, where the young men of Norway went to study, and
 authors born in Norway became, to all intents and purposes, Danish
 writers. But Norway furnished some valuable contributors to this common
 literature. One of the very first names on the records of the Danish
-literature, Peder Claussön (1545-1614), is that of a Norwegian, and
+literature, Peder ClaussÃ¶n (1545-1614), is that of a Norwegian, and
 the list further includes such illustrious names as Holberg, Tullin,
 Wessel, Steffens, etc.
 
@@ -9189,9 +9165,9 @@ principally in France and Italy. In 1718 he became a regular professor
 at the Copenhagen University. Among Holberg's many works the following
 are the most prominent: "Peder Paars," a great comical heroic poem,
 containing sharp attacks on many of the follies of his time; about
-thirty comedies in Molière's style, and a large number of historical
+thirty comedies in MoliÃ¨re's style, and a large number of historical
 works. Holberg, who was ennobled in 1747, died in January 29, 1754, and
-was buried in Sorö Church. His influence on the literature and on the
+was buried in SorÃ¶ Church. His influence on the literature and on the
 whole intellectual life of Denmark was very great. He is often called
 the creator of the Danish literature.
 
@@ -9205,7 +9181,7 @@ Krog-Bredal (1733-1778), who was the first to write lyrical dramas in
 Danish. A Norwegian, Johan Nordal Brun (1745-1816), a gifted poet,
 wrote tragedy in the conventional French taste of the day. It was a
 Norwegian, Johan Herman Wessel (1742-1785), who, by his great parody,
-"Kjærlighed uden Strömper" (Love without Stockings), laughed this
+"KjÃ¦rlighed uden StrÃ¶mper" (Love without Stockings), laughed this
 taste out of fashion. Among the writers of this period are also Claus
 Frimann (1746-1829), Peter Harboe Frimann (1752-1839), Claus Fasting
 (1746-1791), Johan Wibe (1748-1782), Edward Storm (1749-1794), C. H.
@@ -9254,7 +9230,7 @@ was subjected to severe satirical attacks by the author Welhaven and
 others, and later his style became improved in every respect. His
 popularity however decreased as his poetry improved, and in 1840 he had
 become a great poet but had no political influence. Among his works may
-be named "Hasselnödder," "Jöden" (The Jew), "Jödinden" (The Jewess),
+be named "HasselnÃ¶dder," "JÃ¶den" (The Jew), "JÃ¶dinden" (The Jewess),
 "Jan van Huysums Blomsterstykke" (Jan van Huysum's Flower-piece),
 "Den engelske Lods" (The English Pilot), and a great number of lyric
 poems. The poems of his last five years are as popular to-day as ever.
@@ -9271,7 +9247,7 @@ as it was called, appeared J. S. Welhaven.
 
 Johan Sebastian Cammermeyer Welhaven was born in Bergen in 1807,
 entered the university in 1825, became a "Lector" in 1840, and
-afterward Professor of Philosophy. "His refined æsthetic nature," says
+afterward Professor of Philosophy. "His refined Ã¦sthetic nature," says
 Fr. Winkel Horn, "had been early developed, and when the war broke out
 between him and Wergeland he had reached a high point of intellectual
 culture, and thus was in every way a match for his opponent. The
@@ -9284,7 +9260,7 @@ weak sides of his adversary's poetry. Thereby the minds became still
 more excited. The 'Intelligence' party withdrew from the students'
 union, founded a paper of their own, and thus the movement began to
 assume wider dimensions. In 1834 appeared Welhaven's celebrated poem
-'Norges Dæmring,' a series of sonnets, distinguished for their beauty
+'Norges DÃ¦mring,' a series of sonnets, distinguished for their beauty
 of style. In them the poet scourges, without mercy, the one-sided,
 narrow-minded patriotism of his time, and exposes, in striking and
 unmistakable words, the hollowness and shortcomings of the Wergeland
@@ -9314,19 +9290,19 @@ New," published in 1848, were quite popular. His best work is probably
 In the period of about a dozen years following the death of Wergeland,
 the life, manners and characteristics of the Norwegian people were
 given the especial attention of the literary writers. Prominent in this
-period was Peter Christian Asbjörnsen (1812-1885), who, partly alone
-and partly in conjunction with Bishop Jörgen Moe (1813-1882), published
+period was Peter Christian AsbjÃ¶rnsen (1812-1885), who, partly alone
+and partly in conjunction with Bishop JÃ¶rgen Moe (1813-1882), published
 some valuable collections of Norwegian folk tales and fairy tales.
 Moe also published three little volumes of graceful and attractive
 poems. Among other writers of this period may be named Hans H. Schultze
-("Fra Lofoten og Solör"), N. Östgaard ("En Fjeldbygd"), Harald Meltser
+("Fra Lofoten og SolÃ¶r"), N. Ã–stgaard ("En Fjeldbygd"), Harald Meltser
 ("Smaabilleder af Folkelivet"), M. B. Landstad (hymns), and the
 linguist Sophus Bugge.
 
 The efforts to bring out the national life and characteristics of the
 people in the literature also led to an attempt to nationalize the
 language in which the literature was written. The movement was the
-so-called "Maalstræv," and had in view the introduction of a "pure
+so-called "MaalstrÃ¦v," and had in view the introduction of a "pure
 Norwegian" book-language, based upon the peasant dialects. The most
 prominent supporter of this movement was Ivar Aasen (1813-1898),
 the author of an excellent dictionary of the Norwegian language. A
@@ -9336,8 +9312,8 @@ a number of stories and poems in the _Landsmaal_ (country tongue).
 
 A new and grand period in the Norwegian literature commenced about
 1857, and the two most conspicuous names in this period--and in the
-whole Norwegian literature--are those of Henrik Ibsen and Björnstjerne
-Björnson.
+whole Norwegian literature--are those of Henrik Ibsen and BjÃ¶rnstjerne
+BjÃ¶rnson.
 
 Henrik Ibsen was born in Skien in 1828. He has written many beautiful
 poems; but his special field is the drama, where he is a master. His
@@ -9345,36 +9321,36 @@ first works were nearly all historical romantic dramas. His first
 work, "Catilina," printed in 1850, was scarcely noticed until years
 afterward, when he had become famous. In 1856 appeared the romantic
 drama, "Gildet paa Solhaug" (The Feast at Solhaug), followed by
-"Fru Inger til Oestraat," 1857, and "Hærmændene paa Helgeland" (The
+"Fru Inger til Oestraat," 1857, and "HÃ¦rmÃ¦ndene paa Helgeland" (The
 Warriors on Helgeland), 1858. In 1863 he wrote the historical tragedy
 "Kongsemnerne" (The Pretenders), in which the author showed his great
 literary power. Before this play was published, he had been drawn into
 a new channel. In 1862 he began a series of satirical and philosophical
-dramas with "Kjærlighedens Komedie" (Love's Comedy), which was
+dramas with "KjÃ¦rlighedens Komedie" (Love's Comedy), which was
 succeeded by two masterpieces of a similar kind, "Brand," in 1866, and
 "Peer Gynt," in 1867. These works were written in verse; but in "De
 Unges Forbund" (The Young Men's League), 1869, a political satire, he
 abandoned verse, and all his subsequent dramas have been written in
-prose. In 1873 came "Keiser og Galilæer" (Emperor and Galilean). Since
+prose. In 1873 came "Keiser og GalilÃ¦er" (Emperor and Galilean). Since
 then he has published a number of social dramas which have attracted
-world-wide attention. We mention: "Samfundets Stötter" (The Pillars
+world-wide attention. We mention: "Samfundets StÃ¶tter" (The Pillars
 of Society), "Et Dukkehjem" (A Doll's House), "Gengangere" (Ghosts),
 "En Folkefiende" (An Enemy of the People), "Rosmerholm," "Fruen fra
 Havet" (The Lady from the Sea), "Little Eyolf," "Bymester Solnes"
 (Masterbuilder Solnes), "John Gabriel Borkman."
 
-Björnstjerne Björnson (born in Österdalen in 1832) is the more popular
+BjÃ¶rnstjerne BjÃ¶rnson (born in Ã–sterdalen in 1832) is the more popular
 of the two giants in the Norwegian literature of to-day. His works are
 more national in tone. It has been said that to mention his name is to
 raise the Norwegian flag. His first successes were made in the field of
-the novel, and the first two, "Synnöve Solbakken" (1857), and "Arne"
+the novel, and the first two, "SynnÃ¶ve Solbakken" (1857), and "Arne"
 (1858), made his name famous. These, and his other peasant stories,
 will always retain their popularity. He soon, however, entered the
 dramatic field, and has since published a great number of dramas and
 novels. "Halte Hulda," 1858; "Mellem Slagene," 1859; "Kong Sverre,"
 1861; "Sigurd Slembe," 1862; "Maria Stuart," 1863; "De Nygifte" (The
 Newly-married Couple), 1865; "Kongen," 1877; "Leonarda," 1879; "Det ny
-System," 1879; "Over Ærne," 1883; "En Fallit," "Det flager," etc., and
+System," 1879; "Over Ã†rne," 1883; "En Fallit," "Det flager," etc., and
 many others.
 
 In the field of belles-lettres there is, at the present time, a number
@@ -9386,7 +9362,7 @@ number of young authors.
 In the field of science, also, modern Norway has a rich literature
 with many prominent names, such as the historians Peter Andreas Munch
 (1810-1863), Rudolph Keyser (1803-1864), Johan Ernst Sars (born 1835),
-and O. A. Överland.
+and O. A. Ã–verland.
 
 
 
@@ -9812,16 +9788,16 @@ the other qualified voters in their electoral district, thirty-eight
 representatives, to meet and sit in the Storthing. Of this number,
 unless otherwise constitutionally provided, one shall be elected from
 Aalesund and Molde combined, one from Arendal and Grimstad combined,
-four from Bergen, one from Brevig, four from Christiania, Hónefas and
+four from Bergen, one from Brevig, four from Christiania, HÃ³nefas and
 Kongsvinger combined, two from Christianssand, one from Christianssund,
 two from Drammen, one from Flekkefjord, one from Frederickshald, one
-from Fredericksstad, one from Hammerfest, Vardó and Vadsó combined,
-one from Holmestrand, one from Kongsberg, one from Krageró, one from
-Laurvig and Sandefjord combined, one from Lillehammer, Hamer and Gjóvik
-combined, one from Moss and Dróbak combined, one from Porsgrund, one
+from Fredericksstad, one from Hammerfest, VardÃ³ and VadsÃ³ combined,
+one from Holmestrand, one from Kongsberg, one from KragerÃ³, one from
+Laurvig and Sandefjord combined, one from Lillehammer, Hamer and GjÃ³vik
+combined, one from Moss and DrÃ³bak combined, one from Porsgrund, one
 from Sarpsborg, one from Skien, two from Stavanger and Haugesund
-combined, one from Tromsö, four from Throndhjem and Levanger combined,
-one from Tunsberg, and one from Osterrisór. When a town, not herein
+combined, one from TromsÃ¶, four from Throndhjem and Levanger combined,
+one from Tunsberg, and one from OsterrisÃ³r. When a town, not herein
 named, shall have fifty or more inhabitants, who are qualified voters,
 it shall be attached to the nearest town-electoral district. The
 same rule shall apply to towns that may hereafter be founded. A town
@@ -9840,11 +9816,11 @@ high sheriff of the county, and shall then elect, either from their own
 number or from the other qualified voters in their county, seventy-six
 Representatives, to meet and sit in the Storthing, of whom five shall
 be chosen from the county of Agershus, five from the county of Nordre
-Bergenhus, five from the county of Sóndre Bergenhus, five from the
+Bergenhus, five from the county of SÃ³ndre Bergenhus, five from the
 county of Christians, two from the county of Finmarken, five from the
 county of Hedemarken, five from the county of Nordland, five from the
 county of Romsdalen, five from the county of Stavanger, two from the
-county of Tromsö, and four from each of the other eight counties of
+county of TromsÃ¶, and four from each of the other eight counties of
 the kingdom. Ex-Ministers or ex-Secretaries of State shall be eligible
 for Representatives in any electoral district, if, barring residence,
 they are qualified voters and have not already been elected in some
@@ -10243,369 +10219,6 @@ to conform to a single, rather than multiple spellings.
 
 
 End of the Project Gutenberg EBook of The World's Best Histories--Norway, by 
-Sigvart Sörensen
+Sigvart SÃ¶rensen
 
-*** END OF THIS PROJECT GUTENBERG EBOOK THE WORLD'S BEST HISTORIES--NORWAY ***
-
-***** This file should be named 59531-8.txt or 59531-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/9/5/3/59531/
-
-Produced by D A Alexander and the Online Distributed
-Proofreading Team at http://www.pgdp.net. Thanks to the
-Natrona County Library System, Casper, Wyoming, USA, for
-donating the source book.
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 59531 ***
